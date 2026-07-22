@@ -4,7 +4,6 @@
 
 The game right now is in development, so that means the game is not out yet still making the game.
 
-
 ## ⭐ Includes:
 
 Coins.
