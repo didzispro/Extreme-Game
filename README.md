@@ -1,7 +1,5 @@
 # Extreme-Game
 
-# 🔥Extreme Game
-
 ### 🕐 In Development:
 
 The game right now is in development, so that means the game is not out yet still making the game.
