@@ -2,7 +2,8 @@
 
 # 🔥Extreme Game
 
-Links:
+## Links:
+
 Itch.io: https://didzisprocoder.itch.io/extreme-game-adventure
 
 Game Jolt: https://gamejolt.com/games/extreme-game-adventure/1085968
