@@ -8,7 +8,7 @@ The time, where the game was in development.
 
 Right now it's out by the time.
 
-![Gameplay1 Screenshot](Screenshot20.png)
+![Gameplay1 Screenshot](Screenshot10.png)
 
 
 ## ⭐ Includes:
@@ -22,7 +22,7 @@ Moving platforms.
 Jump Pad.
 Clouds.
 
-![Gameplay2 Screenshot](Screenshot21.png)
+![Gameplay2 Screenshot](Screenshot11.png)
 
 ## 🌟 Polish:
 
@@ -33,7 +33,7 @@ Music.
 Sound Effects.
 Improved Assets.
 
-![Gameplay3 Screenshot](Screenshot22.png)
+![Gameplay3 Screenshot](Screenshot12.png)
 
 ## ✅ Update:
 
