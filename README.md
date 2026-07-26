@@ -1,10 +1,15 @@
 # Extreme-Game
 
-## 🕐 In Development:
+# 🔥Extreme Game
+━━━━━━━━━━━━━━━━━━━━━━━━
 
-The game right now is in development, so that means the game is not out yet still making the game.
+## 🕐 It Was In Development:
 
-![Gameplay1 Screenshot](Screenshot20.png)
+The time, where the game was in development.
+
+Right now it's out by the time.
+
+━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## ⭐ Includes:
 
@@ -13,13 +18,34 @@ Spikes.
 Platforms.
 Movement.
 Jump.
-
-![Gameplay1 Screenshot](Screenshot21.png)
+Moving platforms.
+Jump Pad.
+Clouds.
+━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🌟 Polish:
 
 Instant Input.
 Smooth Jump.
 less floaty.
+Music.
+Sound Effects.
+Improved Assets.
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+## ✅ Update:
+
+The Version v1.0.0 is Out!
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+## 🤔 How Long It Took?
+
+It took me about 4 or 5 days to make this game.
+
+# 🎉Game Jam:
+This was a game jam project and i had 4 days or 5 days.
 
 # 🎉Hope you Enjoy!
+
+🎉Hope you Enjoy!
