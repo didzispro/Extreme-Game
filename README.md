@@ -1,7 +1,6 @@
 # Extreme-Game
 
 # 🔥Extreme Game
-━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🕐 It Was In Development:
 
@@ -9,7 +8,8 @@ The time, where the game was in development.
 
 Right now it's out by the time.
 
-━━━━━━━━━━━━━━━━━━━━━━━━
+![Gameplay1 Screenshot](Screenshot20.png)
+
 
 ## ⭐ Includes:
 
@@ -21,7 +21,8 @@ Jump.
 Moving platforms.
 Jump Pad.
 Clouds.
-━━━━━━━━━━━━━━━━━━━━━━━━
+
+![Gameplay2 Screenshot](Screenshot21.png)
 
 ## 🌟 Polish:
 
@@ -31,13 +32,12 @@ less floaty.
 Music.
 Sound Effects.
 Improved Assets.
-━━━━━━━━━━━━━━━━━━━━━━━━
+
+![Gameplay3 Screenshot](Screenshot22.png)
 
 ## ✅ Update:
 
 The Version v1.0.0 is Out!
-
-━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🤔 How Long It Took?
 
